@@ -23,6 +23,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.iml
 
 # .idea files #
 
