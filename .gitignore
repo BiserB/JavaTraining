@@ -25,7 +25,8 @@
 *.rar
 
 # .idea files #
-.idea/*
+
+.idea
 
 
 
